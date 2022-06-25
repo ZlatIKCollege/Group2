@@ -1,0 +1,259 @@
+﻿<Window x:Class="AvtoSalon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AvtoSalon"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <TabControl>
+        <TabItem Header="Пользователи" Name="usersTab" GotFocus="Tab_GotFocus">
+            <DockPanel>
+                <StackPanel 
+                    Orientation = "Horizontal"
+                    DockPanel.Dock = "Top"
+                    Margin = "8"
+                    >
+                    
+                    <Button 
+                        Content = "Сохранить"
+                        Margin = "0 0 8 0"
+                        Padding = "8 2 8 2"
+                        Click="SaveButton_Click"
+                        />
+                    <Button 
+                        Content = "Удалить"
+                        Margin = "8 0 8 0"
+                        Padding ="8 2 8 2"
+                        Click="DeleteButton_Click"
+                        />
+                    <Button
+                        Content="Экспорт"
+                        Padding="8 2 8 2"
+                        Margin="8 0 0 0"
+                        Click="ExportButton_Click"
+                        />
+                </StackPanel>
+                <DataGrid Name="userDG" 
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="usersGD_AutoGeneratingColumn" 
+                          >
+                </DataGrid>
+            </DockPanel>
+
+        </TabItem>
+
+        <TabItem Header="Роли"  Name="rolesTab" GotFocus="Tab_GotFocus"> 
+            <DockPanel>
+                <StackPanel Orientation="Horizontal"
+                            DockPanel.Dock="Top"
+                            Margin = "8"
+                            >
+                    <Button 
+                        Content = "Сохранить"
+                        Margin = "0 0 8 0"
+                        Padding = "8 2 8 2"
+                        Click="SaveButton_Click"
+                        />
+                    <Button 
+                        Content = "Удалить"
+                        Margin = "8 0 8 0"
+                        Padding ="8 2 8 2"
+                        Click="DeleteButton_Click"
+                        />
+
+                </StackPanel>
+                <DataGrid Name="rolesDG" 
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="rolesGD_AutoGeneratingColumn" 
+                          >
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+
+        <TabItem Header="Автомобили" Name="carsTab" GotFocus="Tab_GotFocus">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal" 
+                            DockPanel.Dock="Top"
+                            Margin = "8"
+                            >
+                    <Button 
+                        Content = "Сохранить"
+                        Margin = "0 0 8 0"
+                        Padding = "8 2 8 2"
+                        Click="SaveButton_Click"
+                        />
+                    <Button 
+                        Content = "Удалить"
+                        Margin = "8 0 8 0"
+                        Padding ="8 2 8 2"
+                        Click="DeleteButton_Click"
+                        />
+                </StackPanel>
+                <DataGrid Name="carsDG" 
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="carsGD_AutoGeneratingColumn" 
+                          >
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+
+        <TabItem Header="Продажи" Name="contractsTab"  GotFocus="Tab_GotFocus">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal" 
+                            DockPanel.Dock="Top"
+                            Margin = "8"
+                            >
+                    <Button 
+                        Content = "Сохранить"
+                        Margin = "0 0 8 0"
+                        Padding = "8 2 8 2"
+                        Click="SaveButton_Click"
+                        />
+                    <Button 
+                        Content = "Удалить"
+                        Margin = "8 0 8 0"
+                        Padding ="8 2 8 2"
+                        Click="DeleteButton_Click"
+                        />
+                </StackPanel>
+                <DataGrid Name="contractsDG" 
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="contractsGD_AutoGeneratingColumn" 
+                          >
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+
+        <TabItem Header="Страны" Name="сountriesTab" GotFocus="Tab_GotFocus">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal" 
+                            DockPanel.Dock="Top"
+                            Margin = "8"
+                            >
+                    <Button 
+                        Content = "Сохранить"
+                        Margin = "0 0 8 0"
+                        Padding = "8 2 8 2"
+                        Click="SaveButton_Click"
+                        />
+                    <Button 
+                        Content = "Удалить"
+                        Margin = "8 0 8 0"
+                        Padding ="8 2 8 2"
+                        Click="DeleteButton_Click"
+                        />
+                </StackPanel>
+                <DataGrid x:Name="countriesDG" 
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="сountriesGD_AutoGeneratingColumn" 
+                          >
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+
+        <TabItem Header="Клиенты" Name="clientsTab" GotFocus="Tab_GotFocus">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal" 
+                            DockPanel.Dock="Top"
+                            Margin = "8"
+                            >
+                    <Button 
+                        Content = "Сохранить"
+                        Margin = "0 0 8 0"
+                        Padding = "8 2 8 2"
+                        Click="SaveButton_Click"
+                        />
+                    <Button 
+                        Content = "Удалить"
+                        Margin = "8 0 8 0"
+                        Padding ="8 2 8 2"
+                        Click="DeleteButton_Click"
+                        />
+                </StackPanel>
+                <DataGrid Name="clientsDG" 
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="clientsGD_AutoGeneratingColumn" 
+                          >
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+
+        <TabItem Header="Профессии" Name="professionTab" GotFocus="Tab_GotFocus">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal"
+                            DockPanel.Dock="Top"
+                            Margin = "8"
+                            >
+                    <Button 
+                        Content = "Сохранить"
+                        Margin = "0 0 8 0"
+                        Padding = "8 2 8 2"
+                        Click="SaveButton_Click"
+                        />
+                    <Button 
+                        Content = "Удалить"
+                        Margin = "8 0 8 0"
+                        Padding ="8 2 8 2"
+                        Click="DeleteButton_Click"
+                        />
+                </StackPanel>
+                <DataGrid Name="professionDG" 
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="professionGD_AutoGeneratingColumn" 
+                          >
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+
+        <TabItem Header="Сотрудники" Name="workersTab" GotFocus="Tab_GotFocus">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal" 
+                            DockPanel.Dock="Top"
+                            Margin = "8"
+                            >
+                    <Button 
+                        Content = "Сохранить"
+                        Margin = "0 0 8 0"
+                        Padding = "8 2 8 2"
+                        Click="SaveButton_Click"
+                        />
+                    <Button 
+                        Content = "Удалить"
+                        Margin = "8 0 8 0"
+                        Padding ="8 2 8 2"
+                        Click="DeleteButton_Click"
+                        />
+                </StackPanel>
+                <DataGrid Name="workersDG" 
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="workersGD_AutoGeneratingColumn" 
+                          >
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+        <TabItem Header="Отчеты">
+            <DockPanel>
+                <StackPanel Orientation="Horizontal"
+                            DockPanel.Dock="Top"
+                            Margin="8">
+                    <Button Content="Продажи за текущий месяц"
+                            Click="ReportSalesMounthButton_Click"/>
+                </StackPanel>
+                <DataGrid Name="reportDG"
+                          DockPanel.Dock="Bottom"
+                          Margin="8 0 8 8"
+                          AutoGeneratingColumn="reportDG_AutoGenertingColumn">
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+    </TabControl>
+</Window>

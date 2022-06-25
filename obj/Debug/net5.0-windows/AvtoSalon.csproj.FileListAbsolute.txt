@@ -1,0 +1,152 @@
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\AvtoSalon.exe
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\AvtoSalon.deps.json
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\AvtoSalon.runtimeconfig.json
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\AvtoSalon.runtimeconfig.dev.json
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\AvtoSalon.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\ref\AvtoSalon.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\AvtoSalon.pdb
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Google.Protobuf.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Humanizer.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\MySql.Data.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\ZstdNet.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+F:\ПП.03 2 неделя\AvtoSalon\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\App.g.cs
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon_MarkupCompile.cache
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon_MarkupCompile.lref
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\MainWindow.baml
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.g.resources
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.GeneratedMSBuildEditorConfig.editorconfig
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.AssemblyInfoInputs.cache
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.AssemblyInfo.cs
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.csproj.CoreCompileInputs.cache
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.csproj.CopyComplete
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.dll
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\ref\AvtoSalon.dll
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.pdb
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.genruntimeconfig.cache
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\Autoriz.g.cs
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\Autoriz.baml
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+F:\ПП.03 2 неделя\AvtoSalon\obj\Debug\net5.0-windows\AvtoSalon.csproj.ResolveComReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.exe
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.deps.json
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.runtimeconfig.json
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.runtimeconfig.dev.json
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\ref\AvtoSalon.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.csproj.AssemblyReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.csproj.ResolveComReference.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\Autoriz.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon_MarkupCompile.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon_MarkupCompile.lref
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\Autoriz.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.g.resources
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.AssemblyInfoInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.AssemblyInfo.cs
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.csproj.CoreCompileInputs.cache
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.csproj.CopyComplete
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\ref\AvtoSalon.dll
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.pdb
+C:\Users\maksi\OneDrive\Рабочий стол\Maer\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.genruntimeconfig.cache
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.exe
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.deps.json
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.runtimeconfig.json
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.runtimeconfig.dev.json
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\AvtoSalon.pdb
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Google.Protobuf.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Humanizer.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\MySql.Data.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\ZstdNet.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\MySql.EntityFrameworkCore.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.csproj.AssemblyReference.cache
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.csproj.ResolveComReference.cache
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\Autoriz.g.cs
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\App.g.cs
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon_MarkupCompile.cache
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon_MarkupCompile.lref
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\Autoriz.baml
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\MainWindow.baml
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.g.resources
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.GeneratedMSBuildEditorConfig.editorconfig
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.AssemblyInfoInputs.cache
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.AssemblyInfo.cs
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.csproj.CoreCompileInputs.cache
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.csproj.CopyComplete
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.dll
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.pdb
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\AvtoSalon.genruntimeconfig.cache
+D:\fffffffffff\Group2-master\obj\Debug\net5.0-windows\ref\AvtoSalon.dll
+D:\fffffffffff\Group2-master\bin\Debug\net5.0-windows\ref\AvtoSalon.dll
